@@ -4,5 +4,6 @@ public class Person
   private Address address;
   double salary;
   String Job;
+  int age;
 //Put code here
 }
